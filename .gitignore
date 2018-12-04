@@ -5,8 +5,7 @@ bin-release/
 [Bb]in/
 
 # Other files and folders
-.settings/
-.config.js
+.settings/.config.js
 
 
 # Executables
